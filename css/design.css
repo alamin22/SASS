@@ -1,0 +1,47 @@
+.post a, .post2 a, .post4 a {
+  float: left;
+  width: 30%;
+  height: 33px;
+  border: 2px solid blue;
+  font-size: 22px;
+  text-align: center;
+  border-radius: 25px;
+  margin-left: 15px;
+  margin-bottom: 24px; }
+
+.post {
+  text-align: center; }
+  .post a {
+    color: blue; }
+
+.post2 {
+  text-align: center; }
+  .post2 a {
+    color: green; }
+
+.post4 a {
+  color: red; }
+
+.circle p {
+  width: 40px;
+  height: 40px;
+  color: white;
+  float: left;
+  background-color: green;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px; }
+
+.circle2 p {
+  width: 40px;
+  height: 40px;
+  float: left;
+  color: white;
+  background-color: blue;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px; }
+
+/*# sourceMappingURL=design.css.map */
